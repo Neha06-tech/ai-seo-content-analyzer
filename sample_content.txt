@@ -1,0 +1,3 @@
+openai>=0.27.0
+# dotenv is optional if you prefer a .env file for API keys
+python-dotenv>=1.0.0
